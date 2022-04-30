@@ -21,7 +21,7 @@ if (嗅探 == '免嗅') {
 	require('https://gitea.com/AI957/Hiker/raw/m/v/Route.js');
 }
 //调用x5二级新样式
-require('http://hiker.nokia.press/hikerule/rulelist.json?id=2968');
+require('https://raw.githubusercontent.com/YeWBin55555/ZIYONG/main/byTianyiErjimuban');
 //执行x5样式
 if (x5样式 == '开') {
 	header(d, {
